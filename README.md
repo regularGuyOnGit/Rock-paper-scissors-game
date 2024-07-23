@@ -1,5 +1,7 @@
 # Rock-Paper_Scissor Game
 
+#### [Link to the game](https://regularguyongit.github.io/Rock-paper-scissors-game/)
+
 ### Table of Contents- Introduction
 
 - Installation
